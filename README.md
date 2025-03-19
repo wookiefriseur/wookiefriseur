@@ -2,5 +2,5 @@
 
 |                                                   |                                                   |                                                   |
 | :----------------------------------------------:  | :----------------------------------------------:  | :----------------------------------------------:  |
-| 📑 [Gists](https://gist.github.com/wookiefriseur) |  🏃 [Log Out](https://github.com/logout)         |  🔑  [Log in](https://github.com/login)      |
+| 📑 [Gists](https://codeberg.org/wookiefriseur/gists) |  🏃 [Log Out](https://github.com/logout)         |  🔑  [Log in](https://github.com/login)      |
 
